@@ -1,0 +1,12 @@
+C:\Users\Satya\source\repos\Win-to-WebAPI\Win-to-WebAPI\bin\Debug\Win-to-WebAPI.exe.config
+C:\Users\Satya\source\repos\Win-to-WebAPI\Win-to-WebAPI\bin\Debug\Win-to-WebAPI.exe
+C:\Users\Satya\source\repos\Win-to-WebAPI\Win-to-WebAPI\bin\Debug\Win-to-WebAPI.pdb
+C:\Users\Satya\source\repos\Win-to-WebAPI\Win-to-WebAPI\obj\Debug\Win-to-WebAPI.csprojAssemblyReference.cache
+C:\Users\Satya\source\repos\Win-to-WebAPI\Win-to-WebAPI\obj\Debug\Win_to_WebAPI.Form1.resources
+C:\Users\Satya\source\repos\Win-to-WebAPI\Win-to-WebAPI\obj\Debug\Win_to_WebAPI.Properties.Resources.resources
+C:\Users\Satya\source\repos\Win-to-WebAPI\Win-to-WebAPI\obj\Debug\Win-to-WebAPI.csproj.GenerateResource.cache
+C:\Users\Satya\source\repos\Win-to-WebAPI\Win-to-WebAPI\obj\Debug\Win-to-WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Satya\source\repos\Win-to-WebAPI\Win-to-WebAPI\obj\Debug\Win-to-WebAPI.exe
+C:\Users\Satya\source\repos\Win-to-WebAPI\Win-to-WebAPI\obj\Debug\Win-to-WebAPI.pdb
+C:\Users\Satya\source\repos\Win-to-WebAPI\Win-to-WebAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Satya\source\repos\Win-to-WebAPI\Win-to-WebAPI\obj\Debug\Win-to-WebAPI.csproj.CopyComplete
